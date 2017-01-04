@@ -1,5 +1,5 @@
 # Quotations
-The desktop gadget what is show the quotes.
+The desktop gadget what is showing the quotes.
 
 *Repo info:*
 Here is a src version of gadget (folder src), and already ready to use - compiled version (folder compield).
